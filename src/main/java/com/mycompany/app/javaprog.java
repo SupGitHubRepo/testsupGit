@@ -1,4 +1,4 @@
-
+package com.mycompany.app;
 
 public class javaprog{
 	public static void main(String[] args){
